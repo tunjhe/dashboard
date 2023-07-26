@@ -341,8 +341,7 @@ img {
     justify-content: start;
   }
 
-  .login-info img,
-  .login-info h2 {
+  .login-info {
     display: none;
   }
 
