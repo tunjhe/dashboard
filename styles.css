@@ -339,10 +339,7 @@ img {
   .login-info {
     grid-row: 1;
     justify-content: start;
-  }
-
-  .login-info {
-    display: none;
+    display:none;
   }
 
   .search {
